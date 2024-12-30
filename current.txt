@@ -1,0 +1,4 @@
+teste.py loads faster. It embeds the code in a class. Still no rendering due to different error: permissions with the temporary file.
+
+next: Will envelop the pdf handling funcitons in classes for better memory management.
+
