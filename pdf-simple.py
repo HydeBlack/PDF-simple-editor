@@ -1,3 +1,8 @@
+# review redundance in the imports
+# load funcion freezes. Test with smaller PDF. Module?
+# Add function for mouse operations
+# clean up and document
+
 import tkinter as tk
 from tkinter import StringVar             # this is for the status bar
 from tkinter import filedialog, ttk       # Import filedialog and ttk for file selection and scrollbar
